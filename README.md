@@ -49,11 +49,13 @@ I’m currently building real-world projects and growing my portfolio. I’m ope
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revcodeshq&show_icons=true&theme=dark&hide_border=true)
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=revcodeshq&theme=react-dark&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revcodeshq&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=revcodeshq&theme=dark)
+
+![GitHub Trophies](https://github-profile-trophy.herokuapp.com/?username=revcodeshq&theme=dark)
 
 
 ---
