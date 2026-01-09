@@ -50,12 +50,7 @@ I’m currently building real-world projects and growing my portfolio. I’m ope
 ---
 
 ## 📊 GitHub Activity
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=revcodeshq&theme=react-dark&hide_border=true" />
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=revcodeshq&theme=dark)
-
-![GitHub Trophies](https://github-profile-trophy.herokuapp.com/?username=revcodeshq&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=revcodeshq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=revcodeshq&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=revcodeshq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
